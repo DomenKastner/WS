@@ -14,9 +14,11 @@ Most people don’t care about it, but try to be respectful and at least look at
 
 **Useful Links**
 
+[Some article](https://www.analyticsvidhya.com/blog/2015/10/beginner-guide-web-scraping-beautiful-soup-python/)
+
 [a few tips and tricks](https://hackernoon.com/web-scraping-tutorial-with-python-tips-and-tricks-db070e70e071)
 
-[BeautifulSoup Documentation] (https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+[BeautifulSoup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 [Ninja-mambers only](https://www.smartninja.org/student/course/5644317255270400/lesson/4855289266307072) 
 
